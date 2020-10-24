@@ -1,0 +1,7 @@
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\bin\Debug\ServerCommExample.exe.config
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\bin\Debug\ServerCommExample.exe
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\bin\Debug\ServerCommExample.pdb
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\obj\Debug\ServerCommExample.csproj.CoreCompileInputs.cache
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\obj\Debug\ServerCommExample.exe
+C:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\obj\Debug\ServerCommExample.pdb
+c:\Project\ANU2020\Src\DALGUJI_EXC\ServerCommExample\ServerCommExample\obj\Debug\ServerCommExample.csprojAssemblyReference.cache
